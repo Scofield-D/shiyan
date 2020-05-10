@@ -11,6 +11,9 @@ public class DemoApplication {
         // master branch
         System.out.println("This is a master branch.");
 
+        // first branch
+        System.out.println("This is a first branch.");
+
         SpringApplication.run(DemoApplication.class, args);
     }
 
